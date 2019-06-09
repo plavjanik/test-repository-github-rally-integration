@@ -5,3 +5,5 @@
 - Branch `in-progress-id-in-a-commit` has the ID of a Rally item (`US596183`) in a commit message. It is in progress.
 
 - Branch `us596183-in-progress-id-in-branch-name` has the ID of a Rally item (`US596183`) in its name. It is in progress.
+
+- Branch `in-progress-id-in-a-pull-request` has the ID of a Rally item (`US596183`) in the pull request text. It is in progress.
